@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using NSwag.Annotations;
+global using XoomCore.Application.AccessControl.ActionAuthorization;
+global using XoomCore.Application.AccessControl.Menu;
+global using XoomCore.Application.AccessControl.SubMenu;
+global using XoomCore.Application.Common.Request;
+global using XoomCore.Application.Common.Response;
+global using XoomCore.Application.RequestModels.AccessControl;
+global using XoomCore.Infrastructure.Auth.Permissions;
+global using XoomCore.Infrastructure.Validations;

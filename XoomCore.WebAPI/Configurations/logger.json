@@ -1,0 +1,7 @@
+﻿{
+  "LoggerSettings": {
+    "AppName": "XoomCoreWebAPI",
+    "WriteToFile": true,
+    "WriteToDb": true
+  }
+}

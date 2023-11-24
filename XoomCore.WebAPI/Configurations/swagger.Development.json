@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": ".NET 7 WebAPI - Onion Architecture",
+    "Version": "1.0.1",
+    "Description": "Onion Architecture Template for .NET 6 WebAPI",
+    "ContactName": "Choton Mohammad Ishaque",
+    "ContactEmail": "chotonmishaque@gmail.com",
+    "ContactUrl": "https://linkedin.com/in/chotonmishaque",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": "https://github.com/chotonmishaque/XoomCoreWebAPI/blob/master/LICENSE.txt"
+  }
+}

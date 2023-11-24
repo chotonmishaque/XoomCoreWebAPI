@@ -1,0 +1,9 @@
+﻿global using FluentValidation;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;
+global using System.Text.Json.Serialization;
+global using XoomCore.Application.Common.Response;
+global using XoomCore.Application.Common.Validation;
+global using XoomCore.Application.RequestModels.AccessControl;
+global using XoomCore.Application.Validations;
+global using XoomCore.Domain.Enum;
